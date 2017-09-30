@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>653062496871-8ldm9l7r9thp6et4jaot6qifg1i8eebq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.653062496871-8ldm9l7r9thp6et4jaot6qifg1i8eebq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD9BTxKtR1CWzblylzOWHxj5axTvvIzMQs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>653062496871</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com-ios3-umn.simpleChating</string>
+	<key>PROJECT_ID</key>
+	<string>simplechating-4f958</string>
+	<key>STORAGE_BUCKET</key>
+	<string>simplechating-4f958.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:653062496871:ios:49e286f5bff4b709</string>
+	<key>DATABASE_URL</key>
+	<string>https://simplechating-4f958.firebaseio.com</string>
+</dict>
+</plist>
